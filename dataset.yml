@@ -1,1 +1,15 @@
 #url: "https://www.kaggle.com/competitions/paddy-disease-classification/data"
+
+
+# This is an example urls.yaml file for urlwatch
+
+# A basic URL job just needs a URL
+name: "urlwatch webpage"
+url: "https://www.kaggle.com/competitions/paddy-disease-classification/data"
+# You can use a pre-supplied filter for this, here we apply two:
+# the html2text filter that converts the HTML to plaintext and
+# the grep filter that filters lines based on a regular expression
+filter:
+  - html2text
+  - grep: "Current.*version"
+  - strip
