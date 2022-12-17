@@ -25,3 +25,5 @@ age - Age of the paddy in days.
 3. train_images - This directory contains 10,407 training images stored under different sub-directories corresponding to ten target classes. Filename corresponds to the image_id column of train.csv.
 
 4. test_images - This directory contains 3,469 test set images.
+
+### Link of the dataset: https://www.kaggle.com/competitions/paddy-disease-classification/data
