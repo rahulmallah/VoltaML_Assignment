@@ -9,7 +9,7 @@ Rice (Oryza sativa) is one of the staple foods worldwide. Paddy, the raw grain b
 The main objective of this project is to develop a machine or deep learning-based model to classify the given paddy leaf images accurately. The dataset provide a training dataset of 10,407 (75%) labeled images across ten classes (nine disease categories and normal leaf). Moreover, we also provide additional metadata for each image, such as the paddy variety and age. Your task is to classify each paddy image in the given test dataset of 3,469 (25%) images into one of the nine disease categories or a normal leaf.
 
 ### About the dataset:
-We provide a training dataset of 10,407 (75%) labeled paddy leaf images across ten classes (nine diseases and normal leaf). We also provide additional metadata for each image, such as the paddy variety and age. Our task is to develop an accurate disease classification model using the training dataset and then classify each sample in the test dataset of 3,469 (25%) paddy leaf images into one of the nine diseases or normal leaf.
+The dataset provide a training dataset of 10,407 (75%) labeled paddy leaf images across ten classes (nine diseases and normal leaf). The dataset also provide additional metadata for each image, such as the paddy variety and age. Our task is to develop an accurate disease classification model using the training dataset and then classify each sample in the test dataset of 3,469 (25%) paddy leaf images into one of the nine diseases or normal leaf.
 
 ##### Files:
 
