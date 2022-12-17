@@ -1,14 +1,6 @@
-- name: Project Title
-  i18n: name
-  repo: https://github.com/steremma/root
-  url: https://gist.github.com/steremma/048549de16cc48610233c943ecf495b4
-  img: /static/assets/img/landing/google.png
-  desc: My framework outperforms the [current industry standard](link to its homepage)
- as can be seen in publicly available [benchmarks](link to blog post or whatever).
-
 #url: "https://www.kaggle.com/competitions/paddy-disease-classification/data"
 
-
+https://www.kaggle.com/competitions/paddy-disease-classification/data
 # This is an example urls.yaml file for urlwatch
 
 # A basic URL job just needs a URL
